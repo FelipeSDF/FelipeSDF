@@ -1,33 +1,35 @@
-<html>
-    <body>
-        <h2>🚀 About Me</h2>
-        <ul>
-            <li>📊 Data enthusiast with expertise in <strong>Python, SQL, and data visualization tools</strong>.</li>
-            <li>📈 Skilled in <strong>Pandas, NumPy, Matplotlib, and Power BI</strong> for data analysis and insights.</li>
-            <li>🎯 Currently focusing on <strong>data manipulation, visualization, and business intelligence</strong>.</li>
-            <li>🎓 Always eager to <strong>learn new technologies and improve my analytical skills</strong>.</li>
-        </ul>
-        <h2>🔧 Technologies & Tools</h2>
-        <ul>
-            <li><strong>Languages:</strong> Python, SQL</li>
-            <li><strong>Libraries:</strong> Pandas, NumPy, Matplotlib, Seaborn</li>
-            <li><strong>Data Visualization:</strong> Power BI, Matplotlib, Seaborn</li>
-            <li><strong>Databases:</strong> SQL (PostgreSQL, MySQL)</li>
-        </ul>
-        <h2>📂 Projects</h2>
-        <ul>
-            <li>📊 <strong>Data Analysis:</strong> Performing exploratory data analysis using <strong>Python and SQL</strong>.</li>
-            <li>📉 <strong>Data Visualization:</strong> Creating insightful dashboards with <strong>Power BI and Matplotlib</strong>.</li>
-            <li>🏆 <strong>Machine Learning Exploration:</strong> Experimenting with predictive models for <strong>business insights</strong>.</li>
-        </ul>
-        <h2>📫 Connect with Me</h2>
-        <ul>
-            <li>💼 <a href="#">LinkedIn</a></li>
-            <li>🐦 <a href="#">Twitter</a></li>
-            <li>🌐 <a href="#">Portfolio</a></li>
-        </ul>
-        <p>Thanks for stopping by! 😊🚀</p>
-    </div>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+     <img  src='https://filestore.community.support.microsoft.com/api/images/68a91f49-db1e-40e1-9c4d-47813d383f12'>
+         <h2 style='background:red'>Welcome to my portfolio 👽</h2>
+        <p>
+            👨‍🏫 I'm a student at the university of brooms, I'm studying for a bachelor's degree in Software Engineering.
+            This is where I deposit my projects, codes and ideas that I have inside and outside of college, I hope you like it. 
+        </p>
+        <h2>what will you find here</h2>
+            <ul>
+                <li>📊 Python and R aplicated to data analisys projects using some tool like SQL, Pandas, NumPy, Power BI, R Studio... </li>
+                <li>📊 Python aplicated to web with DJANGO framework </li>
+                <li>📈 Apresentation and data alasisys </li>
+                <li> html, css and javascript with react used in websites projects</li>
+            </ul>
+            <h2>📫 Recomendation </h2>
+                <p>
+            <ul>
+                If you want to see more visual projects, I recommend accessing my learning website and my LinkedIn profile.
+                </p>
+                <li>💼 <a href="#">LinkedIn</a></li>
+                <li>🌐 <a href="#">Portfolio</a></li>
+            </ul>
+        </div>
 </body>
 
 </html>
