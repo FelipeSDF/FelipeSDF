@@ -1,3 +1,4 @@
+<html>
     <h2>🚀 About Me</h2>
     <ul>
         <li>📊 Data enthusiast with expertise in <strong>Python, SQL, and data visualization tools</strong>.</li>
@@ -33,3 +34,5 @@
     
     <p>Thanks for stopping by! 😊🚀</p>
 </div>
+</div>
+</html>
