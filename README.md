@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/10/29/00/46/00-46-41-84_512.gif" alt="GIF Welcome">
+  <img src="https://cdn.pixabay.com/animation/2024/10/29/00/46/00-46-41-84_512.gif" width="200" height="auto" alt="GIF Example">
+  <img src="https://cdn.pixabay.com/animation/2024/10/29/00/46/00-46-41-84_512.gif" width="200" height="auto" alt="GIF Example">
+  <img src="https://cdn.pixabay.com/animation/2024/10/29/00/46/00-46-41-84_512.gif" width="200" height="auto" alt="GIF Example">
 </p>
 
 # Welcome to my portfolio 👽
