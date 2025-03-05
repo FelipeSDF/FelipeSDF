@@ -33,5 +33,5 @@ This is where I share my projects, codes, and ideas from inside and outside of c
 
 If you want to see any visual projects, I recommend visiting my learning website and LinkedIn profile:
 
-- 💼 [LinkedIn](www.linkedin.com/in/felipesodredf)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipesodredf/)  
 - 🌐 [Portfolio](https://aprendizadoimersivo.com.br/)
